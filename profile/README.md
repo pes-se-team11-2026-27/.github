@@ -1,10 +1,10 @@
-## PES SE Team 11 (2025-26)
+## PES SE Team 11 (2026-27)
 
 Software Engineering mini project for UE23CS341A at PES University, Class 5A CSE.
 
 ### Project
 
-**[Railway Reservation System](https://github.com/pes-se-team11-2025-26/railway-reservation-system)**
+**[Railway Reservation System](https://github.com/pes-se-team11-2026-27/railway-reservation-system)**
 
 An online and counter based system for searching trains, booking berths with RAC, waitlist and Tatkal, paying for and cancelling tickets, preparing the reservation chart, and checking tickets on board.
 
